@@ -1,11 +1,11 @@
-*Purpose*
+**Purpose**
 <!-- highlevel pourpose for changes  -->
 
-*What I Did*
+**What I Did**
 <!-- list tasks completed  -->
 
-*Next Steps*
+**Next Steps**
 <!-- list steps if any -->
 
-*Reference*
+**Reference**
 <!-- list links -->
