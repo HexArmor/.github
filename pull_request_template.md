@@ -1,5 +1,5 @@
 **Purpose**
-<!-- highlevel pourpose for changes  -->
+<!-- highlevel purpose for changes  -->
 
 **What I Did**
 <!-- list tasks completed  -->
